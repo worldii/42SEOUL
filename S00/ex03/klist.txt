@@ -1,0 +1,5 @@
+Credentials cache: API:12AF8E24-368C-497C-96AD-AEA4B61E5EBB
+        Principal: jonghapa@42SEOUL.KR
+
+  Issued                Expires               Principal
+Oct  6 13:30:23 2021  Oct  6 23:30:23 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
